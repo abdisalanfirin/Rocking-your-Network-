@@ -83,7 +83,8 @@ Address Resolution Protocol (request
     Sender MAC address: VMware_1d:b3:b1 (00:0c:29:1d:b3:b1)
     Sender IP address: 192.168.47.171 (192.168.47.171)
     Target MAC address: Broadcast (ff:ff:ff:ff:ff:ff)
-    Target IP address: 192.168.47.1 (192.168.47 
+    Target IP address: 192.168.47.1 192.168.47 
+           IP adress: 32.104.116.116
 
 
 
