@@ -76,7 +76,7 @@ https://drive.google.com/file/d/1ic-CFFGrbruloYrWaw3PvT71elTkh3eF/view?usp=shari
 
 - *![hacker massege](./Images/snap_7.PNG)* 
 
-- *![packetcapture](./Images/snap_5.PNG)*                                     - *![wireshark to reed the capturefile](./Images/snap_6.PNG)*
+- *![packetcapture](./Images/snap_5.PNG)*                                     - *![wireshark to reed the capturefile](./Images/snap_x.PNG)*
 
 ### Summary
 
